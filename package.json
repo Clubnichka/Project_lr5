@@ -1,0 +1,25 @@
+{
+  "name": "absolutely-best-npm-package",
+  "version": "1.0.0",
+  "description": "my-first-npm-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clubnichka/Project_lr5.git"
+  },
+  "keywords": [
+    "example",
+    "npm",
+    "test",
+    "package"
+  ],
+  "author": "Lebedev A.D.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clubnichka/Project_lr5/issues"
+  },
+  "homepage": "https://github.com/Clubnichka/Project_lr5#readme"
+}
